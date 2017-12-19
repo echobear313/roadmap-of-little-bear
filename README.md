@@ -3,6 +3,7 @@
 
 ### Deep Learning
 * [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+* [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) by Ian Goodfellow、Yoshua Bengio and Aaron Courville, Deep Learning这本书的中文版。
 
 ### Caffe
 * [caffe官网](http://caffe.berkeleyvision.org/)有很多notebook一步步教你用，全英文看起来可能很吃力，可以先跑一个[Lenet mnist手写体数据集](http://caffe.berkeleyvision.org/gathered/examples/mnist.html)，跑完之后做一个[Classification](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/00-classification.ipynb)，你就很厉害了，加油
