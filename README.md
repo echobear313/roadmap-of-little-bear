@@ -11,3 +11,8 @@
 ### Markdown
 * [Markdown语法说明(中文简体版), 非常详细](http://wowubuntu.com/markdown/)
 * [Markdown编辑器：typora](https://www.typora.io/)(所见即所得、支持latex数学公式, \$\$ 公式 \$\$嵌入，我更希望你用sublime或者vscode等编辑器，然后在浏览器预览，因为这样支持嵌入html tag)
+
+### Vim
+* [如何让 vim 成为我们的神器](https://segmentfault.com/a/1190000011466454)，简要介绍了一下常用命令。
+* [Vim入门基础](http://www.jianshu.com/p/bcbe916f97e1)，Vim的快捷键和搜索是区分大小写的，例如A和a，向后添加和行末添加。这时候你需要在键盘上敲`shift+a`。
+* submline可以修改成vim模式，vscode和pycharm、clion、ij等jetbrains家族套餐，包括visual studio都有vim插件，不要去折腾terminal的vim配置，本质上对技术没有提升，vim最重要的意义是效率的提升。不要折腾。
