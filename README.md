@@ -7,6 +7,9 @@
 
 ### Caffe
 * [caffe官网](http://caffe.berkeleyvision.org/)有很多notebook一步步教你用，全英文看起来可能很吃力，可以先跑一个[Lenet mnist手写体数据集](http://caffe.berkeleyvision.org/gathered/examples/mnist.html)，跑完之后做一个[Classification](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/00-classification.ipynb)，你就很厉害了，加油
+* [Mnist手写体数据集的训练](http://blog.csdn.net/hanging_gardens/article/details/78738937)
+* [Mnist手写体数据集的预测](http://blog.csdn.net/hanging_gardens/article/details/78738937)
+* 以上是训练和预测的博客，介绍的比较详细，无聊的时候看看加深印象。我一步步教你做。  
 
 ### Markdown
 * [Markdown语法说明(中文简体版), 非常详细](http://wowubuntu.com/markdown/)
