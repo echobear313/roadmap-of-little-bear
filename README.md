@@ -4,8 +4,13 @@
 ### Deep Learning
 * [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) by Ian Goodfellow、Yoshua Bengio and Aaron Courville, Deep Learning这本书的中文版。  
-* [基于深度学习的目标检测技术演进：R-CNN、Fast R-CNN、Faster R-CNN](https://www.cnblogs.com/skyfsm/p/6806246.html)  
-
+* [基于深度学习的目标检测技术演进：R-CNN、Fast R-CNN、Faster R-CNN](https://www.cnblogs.com/skyfsm/p/6806246.html)，人脸检测，手势检测需要用到这个，首先需要把手检测出来，然后才能做手势识别。
+* [主流深度学习框架对比](http://blog.csdn.net/zuochao_2013/article/details/56024172)，把现在主流的框架介绍了一遍。
+* [深度学习-LeCun、Bengio和Hinton的联合综述](https://www.csdn.net/article/2015-06-01/2824811)，作者Yann LeCun、Yoshua Bengio、Geoffrey Hinton，三位祖师联合发表在Nature上的文献综述..
+* [CNN(卷积神经网络)、RNN(循环神经网络)、DNN(深度神经网络)的内部网络结构有什么区别？](https://www.zhihu.com/question/34681168)
+* [一文读懂卷积神经网络CNN](https://www.cnblogs.com/nsnow/p/4562308.html)
+* [深度学习简介(一)——卷积神经网络](https://www.cnblogs.com/alexcai/p/5506806.html)
+* [详解卷积神经网络(CNN)](http://blog.csdn.net/qq_25762497/article/details/51052861)
 ### Caffe
 * [caffe官网](http://caffe.berkeleyvision.org/)有很多notebook一步步教你用，全英文看起来可能很吃力，可以先跑一个[Lenet mnist手写体数据集](http://caffe.berkeleyvision.org/gathered/examples/mnist.html)，跑完之后做一个[Classification](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/00-classification.ipynb)，你就很厉害了，加油
 * [Mnist手写体数据集的训练](http://blog.csdn.net/hanging_gardens/article/details/78738937)
