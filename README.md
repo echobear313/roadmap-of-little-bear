@@ -11,6 +11,10 @@
 * [一文读懂卷积神经网络CNN](https://www.cnblogs.com/nsnow/p/4562308.html)
 * [深度学习简介(一)——卷积神经网络](https://www.cnblogs.com/alexcai/p/5506806.html)
 * [详解卷积神经网络(CNN)](http://blog.csdn.net/qq_25762497/article/details/51052861)
+
+### opencv
+* [【OpenCV人脸识别入门教程之二】人脸检测](http://blog.csdn.net/lsq2902101015/article/details/47057081)，这个教程里面用到的文件可以在[opencv官网](https://opencv.org/releases.html)找到，我已经把它挑出来，写了一个完整的项目，在`opencv-face-detection`文件夹里面, 运行看一下效果，先cd到这个文件夹，然后`mkdir build && cmake . && make`. 自带的haarcascade检测器又gpu版本，先用cpu的吧，不过速度可能有点慢。
+
 ### Caffe
 * [caffe官网](http://caffe.berkeleyvision.org/)有很多notebook一步步教你用，全英文看起来可能很吃力，可以先跑一个[Lenet mnist手写体数据集](http://caffe.berkeleyvision.org/gathered/examples/mnist.html)，跑完之后做一个[Classification](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/00-classification.ipynb)，你就很厉害了，加油
 * [Mnist手写体数据集的训练](http://blog.csdn.net/hanging_gardens/article/details/78738937)
