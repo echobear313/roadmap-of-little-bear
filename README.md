@@ -21,6 +21,8 @@
 * [Mnist手写体数据集的预测](http://blog.csdn.net/hanging_gardens/article/details/78738937)
 * 以上是训练和预测的博客，介绍的比较详细，无聊的时候看看加深印象。我一步步教你做。  
 
+### Django
+* [Django博客教程](https://www.zmrenwu.com/post/3/)，很详细
 ### Markdown
 * [Markdown语法说明(中文简体版), 非常详细](http://wowubuntu.com/markdown/)
 * [Markdown编辑器：typora](https://www.typora.io/)(所见即所得、支持latex数学公式, \$\$ 公式 \$\$嵌入，我更希望你用sublime或者vscode等编辑器，然后在浏览器预览，因为这样支持嵌入html tag)
