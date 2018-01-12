@@ -31,3 +31,8 @@
 * [如何让 vim 成为我们的神器](https://segmentfault.com/a/1190000011466454)，简要介绍了一下常用命令。
 * [Vim入门基础](http://www.jianshu.com/p/bcbe916f97e1)，Vim的快捷键和搜索是区分大小写的，例如A和a，向后添加和行末添加。这时候你需要在键盘上敲`shift+a`。
 * submline可以修改成vim模式，vscode和pycharm、clion、ij等jetbrains家族套餐，包括visual studio都有vim插件，不要去折腾terminal的vim配置，本质上对技术没有提升，vim最重要的意义是效率的提升。不要折腾。
+
+
+### Competition
+* [中国大学生计算机设计大赛](http://www.jsjds.org/)，七月截止八月结束，关注一下
+* [创新杯 2018](https://www.microsoft.com/china/msdn/student/IC2018/bssz.html)，2018年1月30日 23:59报名，2018年3月28日 23:59复赛，2018年4月下旬半决赛，2018年5月下旬决赛
