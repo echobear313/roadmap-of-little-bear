@@ -12,6 +12,14 @@
 * [深度学习简介(一)——卷积神经网络](https://www.cnblogs.com/alexcai/p/5506806.html)
 * [详解卷积神经网络(CNN)](http://blog.csdn.net/qq_25762497/article/details/51052861)
 
+### MTCNN
+* [NMS——非极大值抑制](http://blog.csdn.net/shuzfan/article/details/52711706)
+* [MTCNN训练整理](http://blog.csdn.net/amds123/article/details/69568495)
+* [ MTCNN（Multi-task convolutional neural networks）人脸对齐](http://blog.csdn.net/qq_14845119/article/details/52680940)
+* [人脸检测——MTCNN](http://blog.csdn.net/shuzfan/article/details/52668935)
+* [人脸检测：MTCNN](http://blog.csdn.net/tinyzhao/article/details/53236191)
+* [训练细节](./mtcnn_training_details.md)
+* 训练用到的两个数据集[widerface](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)32203张图片，393703张脸，标签是每张脸的bounding box，也就是把脸抠出来的框的两个点的坐标，这个数据集用来前两个网络，粗筛、细筛把脸抠出来；[aflw](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)，两万五张脸，每张脸标注了21个关键点。这个数据集用来最后一个网络，检测的同时做关键点的回归，也就是检测。两个数据集里面就包括了训练集和测试集。测试数据集[fddb](http://vis-www.cs.umass.edu/fddb/)，包含的是人脸检测的标签，5171张脸，2845张图片，从LFW数据集中抽出来打的标签，人脸检测比较通用的比较性能的数据集。
 ### OpenCV
 * [【OpenCV人脸识别入门教程之二】人脸检测](http://blog.csdn.net/lsq2902101015/article/details/47057081)，这个教程里面用到的文件可以在[opencv官网](https://opencv.org/releases.html)找到，我已经把它挑出来，写了一个完整的项目，在`opencv-face-detection`文件夹里面, 运行看一下效果，先cd到这个文件夹，然后`cmake . && make`. 自带的haarcascade检测器有gpu版本，先用cpu的吧，不过速度可能有点慢。
 
